@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CPS 悬浮窗</string>
+    <string name="sense_label">桌宠环境感知</string>
+    <string name="sense_desc">桌宠环境感知：只用来判断键盘是否弹出、当前打开的是哪个应用、是否有新通知和是否在打字，从而让桌宠播放对应动画。不会读取、保存或上传任何屏幕内容和输入内容。</string>
+</resources>
